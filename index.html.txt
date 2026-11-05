@@ -1,0 +1,13 @@
+HTML
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Inicio</title>
+</head>
+<body>
+    <h1>trabajo practico  sitio web simulado en S3</h1>
+    <p>Sitio web estático creado por Agustín Emiliano Villa.</p>
+    <a href="contacto.html">Ir a Contacto</a>
+</body>
+</html>
